@@ -8,5 +8,5 @@ sdfsdfsdf
 ** `代码`
 **
 #+BEGIN_TIP
-dddd
+dddd^^^^
 #+END_TIP
